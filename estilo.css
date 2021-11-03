@@ -1,0 +1,45 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: aquamarine;
+    height: 100%;
+}
+
+div {
+    text-align: center;
+    margin-top: 150px;
+}
+
+p {
+    font-size: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    display: inline-block;
+    border: solid #000 2px;
+    text-decoration: none;
+    width: 120px;
+    height: 70px;
+}
+
+button:hover {
+    background: darkturquoise;
+    color: #444;
+    border: solid #444 3px;
+    font-size: 1em;
+    
+}
+
+#salvos { 
+    font-size: 1.5em;
+}
+
+#itens {
+    list-style-type: none;
+}
+
+li {
+    font-size: 25px; 
+    text-align: center;
+}
